@@ -1,2 +1,2 @@
-#1/bin/bash
-ls -pamv
+#!/bin/bash
+ls -apm
