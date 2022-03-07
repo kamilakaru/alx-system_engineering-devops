@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3n /working_director/iacta
+head -3 iacta
