@@ -9,7 +9,7 @@ do
 	
 	if [ $i -eq 9 ]
 	then
-		echo "HI"
+		echo "Hi"
 	fi
 
 	i=$(( i + 1 ))
